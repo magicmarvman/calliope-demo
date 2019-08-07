@@ -80,7 +80,7 @@ static const uint8_t pixel_smiley[25] = {
 static const uint8_t pixel_sadly[25] = {
     0, 1, 0, 1, 0,
     0, 1, 0, 1, 0,
-    0, 0, 0, 0, 0,
+    0, 0, 1, 0, 0,
     0, 1, 1, 1, 0,
     1, 0, 0, 0, 1
 };
